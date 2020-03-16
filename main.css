@@ -1,0 +1,25 @@
+thead {
+	background: #eee;
+	border: solid 1px;
+}
+
+th {
+	border: solid 1px;
+}
+
+.darker {
+	background: #eee;
+}
+
+table {
+	border-collapse: collapse;
+	width: 50%;
+	border-spacing: 0;
+	margin: 0px;
+	border: solid 0 1px 0 1px;
+}
+
+td {
+	padding: 5px;
+	border: solid 1px;
+}
